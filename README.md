@@ -7,7 +7,7 @@
 	     *IntelliJ IDEA. 
  	Esse projeto constitui um gerenciador de operações de câmbio. Esse gerenciador tem apenas 3 moedas 
 	disponíveis pré cadastrados no código fonte, são elas EUR(Para euro), USD (Para Dolar) e BRL (Para Real)
-		A inserção das datas nos filtros têm que seguir a seguinte ordem mês/dia/ano, pós a biblioteca na
+		A inserção das datas nos filtros têm que seguir a seguinte ordem mês/dia/ano, pois a biblioteca na
 	qual foi usado para armazenar as datas da operação utiliza deste padrão, por exemplo :
 	     *12/01/21
 	     *31/01/21

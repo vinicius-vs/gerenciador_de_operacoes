@@ -1,6 +1,7 @@
 # gerenciador_de_operacoes
 
-	Para esse projeto foi utilizado a linguagem de programação Java, o código podeser compilado e
+	Para esse projeto foi utilizado a linguagem de programação Java, os arquivos devem ser baixados e guardados
+	na mesma pasta e abrir essa pasta como projeto no IDE, o código pode ser compilado e
 	executado utilizando qualquer IDE com suporte a java de sua preferência, por exemplo:
 	     *Eclipse IDE for Java 
 	     *IntelliJ IDEA. 
